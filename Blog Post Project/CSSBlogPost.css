@@ -1,0 +1,43 @@
+body{
+  width: 1000px;
+  border: 15px solid #b3b1b1;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin: auto;
+  height: auto;
+}
+
+.blue-font{
+  font-family: Source Sans Pro;
+  color: #2da7bd;
+  font-weight: 700;
+  margin-left: 5%;
+  letter-spacing: 2px;
+  font-size: 25px;
+}
+
+h1{
+  font-family: Source Sans Pro;
+  margin-left: 5%;
+  margin-bottom: 3%;
+}
+
+#firstparagraph{
+  border-left: 4px solid #b3b1b1;
+  margin-left: 5%;
+  padding: 5px;
+  margin-right: 5%;
+}
+
+p{
+  margin-left: 5%;
+  margin-right: 5%;
+  padding-bottom: 5px;
+  margin-bottom: 25px;
+}
+
+hr{
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 3%;
+}
